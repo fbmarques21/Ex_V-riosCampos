@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">VariosCampos</string>
+    <string name="editNome">Nome</string>
+    <string name="editTelefone">Telefone</string>
+    <string name="editEmail">Email</string>
+    <string name="editIdade">Idade</string>
+    <string name="editPeso">Peso</string>
+    <string name="editAltura">Altura</string>
+    <string name="Botao">Enviar</string>
 </resources>
