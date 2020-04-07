@@ -1,0 +1,2 @@
+rootProject.name='VariosCampos'
+include ':app'
