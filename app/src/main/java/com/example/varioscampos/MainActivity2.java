@@ -30,5 +30,12 @@ public class MainActivity2 extends AppCompatActivity {
         TextView textViewIdade = findViewById(R.id.textViewIdade);
         TextView textViewPeso = findViewById(R.id.textViewPeso);
         TextView textViewAltura = findViewById(R.id.textViewAltura);
+
+        textViewNome.setText(Nome);
+        textViewTelemovel.setText(Telemovel);
+        textViewEmail.setText(Email);
+        textViewIdade.setText(String.valueOf(Idade));
+        textViewPeso.setText(String.valueOf(Peso));
+        textViewAltura.setText(String.valueOf(Altura));
     }
 }
